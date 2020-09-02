@@ -142,7 +142,7 @@ Used pd.pivot table and filled up the Nan values with zeros (Since Sparse).
 <img src='t13.JPG' width=500px><br><br>
 
 
-## Task 1
+## Task 2
 
 
 ### Data

@@ -130,8 +130,7 @@ Used pd.pivot table and filled up the Nan values with zeros (Since Sparse).
   - Parameter tuned - None
 
 - Random Forest Classifier
-
-- Parameter tuned using RandomizedSearchCV
+  - Parameter tuned using RandomizedSearchCV
 
 
 #### Visualized Results

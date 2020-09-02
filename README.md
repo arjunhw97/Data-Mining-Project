@@ -9,6 +9,54 @@ Install Python3 and Jupyter-notebook in your system, copy all the 3 directories 
 There are 3 tasks and each task consists of a dataset and our objective is to make accurate predictions using classifiers. Proper preprocessing should be done before building a model and the model should make predictions that are accurate and do not overfit the data.
 
 
+## Files
+
+### Task 1
+
+- t1dectree.ipynb
+
+- t1.naivebayes.ipynb
+
+- t1randfor.ipynb
+
+- t1svm.ipynb
+
+
+### Task 2
+
+- version2.ipynb
+- version3.ipynb
+
+
+### Task 3
+
+#### Vehicle Type Prediction:
+- bayes.ipynb
+
+- sgd.ipynb
+
+- nearcent.ipynb
+
+- dectree.ipynb
+
+- knear.ipynb
+
+- randfor.ipynb
+
+- svm.ipynb
+
+- labprop.ipynb
+
+
+#### Customer Type Prediction:
+
+- c3bayes.ipynb
+
+- c3dectree.ipynb
+
+- c3knear.ipynb
+
+
 ## Task 1
 
 ### Data
@@ -265,7 +313,19 @@ Our goal was to predict:
 <img src='t34.JPG' width=500px><br><br>
 
 
+## REFERENCES
 
+- [DistrictDataLabs](https://anaconda.org/DistrictDataLabs/yellowbrick)
+
+- [LogisticRegression](https://scikitlearn.org/stable/modules/generated/sklearn.linear_model.LogisticRegression.html)
+
+- [DecisionTree](https://scikitlearn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html)
+
+- [NaiveBayes](https://scikit-learn.org/stable/modules/naive_bayes.html)
+
+- [LabelvsOneHot](https://medium.com/@contactsunny/label-encoder-vs-one-hot-encoder-inmachine-learning-3fc273365621)
+
+- [Get_Dummies](https://pandas.pydata.org/pandasdocs/stable/reference/api/pandas.get_dummies.html)
 
 
 
